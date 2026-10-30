@@ -20,7 +20,7 @@ export const projects = [
     title: 'Market Pulse',
     description: 'A web dashboard that displays web-scraped data using interactive visualizations.',
     tech: ['Python', 'REST API', 'Vue.js'],
-    image: '/images/MarketPulse.png',
+    image: '/images/Marketpulse.png',
     liveUrl: 'https://lnkd.in/eQAxBGD9',
     repoUrl: 'https://lnkd.in/eWxX3H-N',
     overview: 'A team project developed over a 4-week Agile sprint using Python, Flask, and Vue.js.',
